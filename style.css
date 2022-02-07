@@ -18,5 +18,20 @@ ul li {
     text-align: center;
 }
 
+.ms_green {
+    background-color: #0BD6A1;
+}
+
+.ms_yellow {
+    background-color: #FFD166;
+}
+
+.ms_red {
+    background-color: #F0466F;
+}
+
+.ms_light_blue {
+    background-color: #1389B2;
+}
 
 
